@@ -9,6 +9,6 @@
   "author": "Andreas Baakind <andreas.baakind@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "ws": "^7.2.1"
+    "ws": "^7.4.6"
   }
 }
